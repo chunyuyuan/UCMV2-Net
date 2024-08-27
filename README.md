@@ -10,7 +10,7 @@ This is the official code repository for "UCM-NetV2 and BNN-UCM-NetV2: Efficient
 -  (PS: you can use above link to directly download the dataset and put them in the data folder or use UltraLight-VM-UNet code to generate the division of dataset)
 
 
-**Train the EGE-UNet.**
+**Train the UCMV2-UNet.**
 ```
 cd UCMV2-UNet
 ```
